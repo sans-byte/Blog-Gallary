@@ -1,0 +1,10 @@
+.blog-page {
+    padding:8px 36px;
+    width: 78vw;
+}
+
+.blog-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

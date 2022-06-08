@@ -1,0 +1,8 @@
+.divider {
+    display: flex;
+    flex-direction: row;
+}
+
+body{
+    background-color: #efefef;
+}
